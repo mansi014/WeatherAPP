@@ -34,10 +34,3 @@ A beautiful and responsive weather application built with **React.js**. It uses 
 - **CSS Flexbox & Media Queries**
 - **Weather Animation (react-animated-weather)**
 
----
-
-## 🛠️ Setup & Installation
-
-1. **Clone the repository:**
-
-
